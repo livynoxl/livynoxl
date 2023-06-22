@@ -1,7 +1,7 @@
 ### Welcome to my **profile** 
 
-![Discord](![image](https://github.com/M6YR/M6YR/assets/117858901/414bdb85-85c9-487c-b4ba-1ddecb7f1ea7)
-)
+![image](https://github.com/M6YR/M6YR/assets/117858901/ed70ea46-41e3-4fd8-b800-8251fb07e117)
+
 
 ---
 
