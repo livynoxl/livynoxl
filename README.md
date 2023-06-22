@@ -1,12 +1,13 @@
 ### Welcome to my **profile** 
 
-![Discord](https://discord.c99.nl/widget/theme-1/1090115429327982643.png)
+![Discord](![image](https://github.com/M6YR/M6YR/assets/117858901/414bdb85-85c9-487c-b4ba-1ddecb7f1ea7)
+)
 
 ---
 
 - ❤ I love C# & C & C++ & VB.Net 
 - 💬 Ask me about anything related to C#
-- 📫 How to reach me : Mr. pepe#6121 ( old account termed ) 
+- 📫 How to reach me On Youtube? : _xxi
 
 ---
 
