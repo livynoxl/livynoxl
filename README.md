@@ -1,6 +1,6 @@
 ### Welcome to my **profile** 
 
-![image](https://github.com/M6YR/M6YR/assets/117858901/14f6e64e-534e-43e1-a2c3-cff2e6a60981)
+![image](https://github.com/M6YR/M6YR/assets/117858901/adb33a3f-a5db-4edf-a1c3-6cee680850df)
 
 ---
 
