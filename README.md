@@ -1,6 +1,8 @@
-### Welcome to my **Troll Profile** 
+### Welcome to my **(💀) Profile** 
 
-![image](https://github.com/M6YR/M6YR/assets/117858901/acb275c8-e1ea-4a59-9f5b-2e8fbdde190b)
+<p align="center">
+<a href="#"><img src="https://github.com/M6YR/M6YR/assets/117858901/bd7c5860-ba76-48aa-a342-fc3c8941d9c7" height="400"></a>
+</p>
 
 ---
 
