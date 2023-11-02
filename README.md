@@ -1,7 +1,7 @@
 ### Welcome to my **(💀) Profile** 
 
 <p align="center">
-<a href="#"><img src="https://github.com/M6YR/M6YR/assets/117858901/22ef953d-f819-468b-a6f6-e6bb8f890f40" height="400"></a>
+<a href="#"><img src="https://github.com/M6YR/M6YR/assets/117858901/0169f933-00ff-45ff-8853-ef8c27d9bb80" height="400"></a>
 </p>
 
 ---
