@@ -1,4 +1,4 @@
-### Welcome to my **(💀) Profile** 
+### Welcome to My **Profile** !
 
 <p align="center">
 <a href="#"><img src="https://github.com/M6YR/M6YR/assets/117858901/0169f933-00ff-45ff-8853-ef8c27d9bb80" height="400"></a>
