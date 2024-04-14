@@ -1,14 +1,14 @@
 ### Welcome to My **Profile** !
 
 <p align="center">
-<a href="#"><img src="https://github.com/M6YR/M6YR/assets/117858901/0169f933-00ff-45ff-8853-ef8c27d9bb80" height="400"></a>
+<a href="#"><img src="https://github.com/M6YR/M6YR/assets/117858901/61dcf06f-e5e3-4e13-bf85-1eca67f7f3af" height="400"></a>
 </p>
 
 ---
 
 - ❤ I love C# & C & C++ & VB.Net
 - 💬 Ask me about anything related to C#
-- 📫 How to reach me On Youtube? : _xxi
+- 📫 How to reach me On Discord? : .v9z
 
 ---
 
