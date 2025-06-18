@@ -6,13 +6,12 @@
 
 ---
 
-- ❤ I love C# & C & C++ & VB.Net
-- 💬 Ask me about anything related to C#
-- 📫 How to reach me On Discord? : .v9z
+- C# & C & C++ & VB.Net
+- discord username: @polimaldrug
 
 ---
 
-### 💸If you want to support me
+### If you want to support me
 
 BTC : bc1qumfpmtzvuehftp08x20qvw2tzx29sf3vt8ch4q
 
@@ -23,5 +22,5 @@ BTC : bc1qumfpmtzvuehftp08x20qvw2tzx29sf3vt8ch4q
 <img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=M6YR&count_private=true&show_icons=true&theme=radical">
 
 ---
-### 📍 Profile Visitor Count
-<img align="left" alt="ChickenDevs' Stats" src="https://profile-counter.glitch.me/M6YR/count.svg">
+###  Profile Visitor Count
+<img align="left" alt="ChickenDevs' Stats" src="https://profile-counter.glitch.me/livynoxl/count.svg">
